@@ -106,5 +106,7 @@ This allowed the client to clearly understand both the **market context** and th
 
 The project combines structured EDA with a real-world client scenario, demonstrating how data-driven insights can support **strategic real estate investment decisions**.
 
+Link to the [presentation](https://www.canva.com/design/DAG7SX4wvMY/Vq7v3jn8a2q1x5RjuFqeWw/edit?utm_content=DAG7SX4wvMY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ---
 
